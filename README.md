@@ -6,3 +6,4 @@ To see an example of the article template see [https://www.rpubs.com/BlessedbyTM
 
 To see an example of the presentation slides template see [https://www.rpubs.com/BlessedbyTMH/wcPresentation](https://www.rpubs.com/BlessedbyTMH/wcPresentation)
 
+
